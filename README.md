@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aamir Baloch</h1>
+<h1 align="center">Hello 👋, I'm Aamir Baloch</h1>
 <h3 align="center">A passionate App Developer and Prompt Engineer.</h3>
 
 - 🌱 I’m currently learning **CS50**
+
+- 📝 I regularly write posts on [Linkedin](Linkedin)
 
 - 📫 How to reach me **amiralibaloch913@gmail.com**
 
